@@ -8,7 +8,7 @@ body {
   font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   color: cornflowerblue;
-  background-image: url('../img/space.jpg');
+/* forgot to add this image background-image: url('../pictures/space.jpg'); */
   text-align: center;
   position: relative;
 }
